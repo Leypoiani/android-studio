@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">idioma</string>
+    <string name="txtMenu">Menu</string>
+    <string name="txtIdioma">Language</string>
+    <string name="btnSair">Finish</string>
+    <string name="btnIdioma">Language</string>
+</resources>
